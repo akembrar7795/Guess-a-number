@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchYourNumber", "MatchYourNumber\MatchYourNumber.csproj", "{35EE5915-41A0-4530-9E97-3E9111975CDA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessYourNumber", "MatchYourNumber\GuessYourNumber.csproj", "{35EE5915-41A0-4530-9E97-3E9111975CDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
